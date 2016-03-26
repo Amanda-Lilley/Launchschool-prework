@@ -1,0 +1,2 @@
+Another way of writing to a file
+Here is yet another line of textWriting to file in Ruby is simple.
